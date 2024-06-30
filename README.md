@@ -6,7 +6,7 @@ Rainbow Nautilus is an innovative, open-source project aimed at developing susta
 
 ## Key Features
 
-- Modular H-Block Design: Versatile, interlocking building units inspired by MAST's "Land on Water" technology, allowing for easy assembly and customization.
+- Modular H-Block Designs as well as  Versatile, interlocking building units inspired by MAST's "Land on Water" technology, allowing for easy assembly and customization.
 - Floating Architecture: Utilizing recycled plastic modules and flexible configurations to create stable, expandable floating platforms.
 - Sustainable Materials: Incorporating geopolymers, mycelium-based foams, and other eco-friendly alternatives.
 - Integrated Water Management: 
